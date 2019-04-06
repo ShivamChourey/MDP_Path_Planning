@@ -5,4 +5,6 @@ The code is written in MATLAB, and is simulated in VREP environment. The code is
 VREP Simulation at following YouTube link:
 https://www.youtube.com/watch?v=RUi9G9CDc_M&feature=youtu.be
 
-Project Contributors: Shivam Chourey, Vivek Srinivasan, and Nilesh Dama
+Project Contributors: Shivam Chourey - https://www.linkedin.com/in/shivamchourey/
+                      Vivek Srinivasan - https://www.linkedin.com/in/vivek-srinivasan-vt/
+                      Nilesh Dama
