@@ -1,8 +1,8 @@
 # Path Planning Simulation Project (MDP )
-A piece of MATLAB code that was used to devise an optimal policy for the motion of the robot given the obstacles and world boundaries.
-The code is written in MATLAB, and is simulated in VREP environment. The code is written for a specific environment with obstacles.
+This repository contains the MATLAB code to devise an optimal policy for the motion of the robot given the obstacles and world boundaries.
+This file contains implementation to a specific environment wiht known parameters and obstacles, but can easily be modified or generalized for any environment. The code was linked to the V-Rep simulation environment and tested. 
 
-VREP Simulation at following YouTube link: \
+A video of the VREP Simulation is available at the following YouTube link: \
 https://www.youtube.com/watch?v=RUi9G9CDc_M&feature=youtu.be
 
 Project Contributors: 
